@@ -57,8 +57,11 @@ export PYTHONPATH=$PWD:$PYTHONPATH
 ```
 
 ## Demo
-- cd SiamMask/
-- export PYTHONPATH=$PWD:$PYTHONPATH
+- First export PYTHONPATH
+```shell
+  cd SiamMask/
+  export PYTHONPATH=$PWD:$PYTHONPATH
+  ```
 - [Setup](#environment-setup) your environment
 - Download the SiamMask model
 ```shell
